@@ -1,0 +1,13 @@
+                                PyCitySchool - Analysis Report
+
+
+According to the data analysis done, for the PyCitySchool project, a couple of conclusions can be made when comparing the Charter schools with the overall District and its schools.
+
+1. When compared to the overall District, Charter schools show higher math and reading averages, and a higher percent of students passing math and/or reading. This pattern is highlighted again when the 5 top performing schools are Charter schools while the 5 bottom performing schools are District schools.
+
+When comparing the average scores and percent passing by grade level, the Charter schools are very consistent with the averages leading me to believe that  there is an inovative and creative way that the school teachers are teaching and this keeps the students engaged in their studies.
+
+2. In reviewing class sizes, the Charter schools are a fraction of the size of the larger District schools while the cost per student is only mildly lower than that of the larger District schools. It is possible that the smaller class size will benefit the student's learning process. This project is certainly leaning that way.
+
+
+
